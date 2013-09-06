@@ -92,7 +92,5 @@ namespace コピーでGoKei
             答欄.Clear();
             答欄.AppendText(後);
         }
-
-        
     }
 }
