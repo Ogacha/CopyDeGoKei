@@ -20,3 +20,6 @@
 
 ## 対象
 全年齢。クリップボード監視が入っているので、Windows 限定です。すみません。
+
+## 動作環境
+.NET Framework 4.7 が入った Windows。動かない方は、Windows Update してみてくださいね。
